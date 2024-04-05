@@ -1,0 +1,16 @@
+.theme-menu__list {
+  font-size: 14px;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  width: -moz-min-content;
+  width: min-content;
+  text-align: start;
+  margin: 0 45.1%;
+}
+
+@media (width <= 375px) {
+  .theme-menu__list {
+    margin: 0 41.1%;
+  }
+}

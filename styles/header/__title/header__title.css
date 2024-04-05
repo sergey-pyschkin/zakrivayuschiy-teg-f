@@ -1,0 +1,5 @@
+.header__title {
+  font-size: clamp(0.875rem, 0.6769rem + 0.8451vw, 1.4375rem);
+  text-transform: uppercase;
+  margin: 20px 0 25px;
+}

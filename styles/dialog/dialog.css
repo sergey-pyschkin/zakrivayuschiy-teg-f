@@ -1,0 +1,30 @@
+.dialog {
+  font-family: var(--fantasy-font-family);
+  font-size: 14px;
+  padding: 30px 26px;
+  color: var(--text-color);
+  background: var(--page-background);
+  border: 2px solid var(--stroke-color);
+}
+
+.dialog .floppy-image {
+  width: 39px;
+  height: 39px;
+  mix-blend-mode: normal;
+}
+
+@media (width <= 375px) {
+  .dialog {
+    padding: 32px 38px;
+  }
+}
+
+.dialog::backdrop {
+  background-color: rgba(0, 0, 0, 0.75);
+}
+
+.dialog:not([open]) {
+  display: none;
+  opacity: 0;
+  pointer-events: none;
+}

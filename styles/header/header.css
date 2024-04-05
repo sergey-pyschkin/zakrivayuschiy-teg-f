@@ -1,0 +1,14 @@
+.header {
+  font-family: var(--fantasy-font-family);
+  text-align: center;
+  margin: 100px 0;
+  padding: 136px 0 23px;
+  background: var(--header-background);
+  border: 2px solid var(--stroke-color);
+}
+
+@media (width <= 375px) {
+  .header {
+    padding: 120px 0 24px;
+  }
+}

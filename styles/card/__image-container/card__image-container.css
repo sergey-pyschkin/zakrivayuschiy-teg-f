@@ -1,0 +1,6 @@
+.card__image-container {
+  overflow: hidden;
+  position: relative;
+  border-top: 2px solid var(--stroke-color);
+  border-bottom: 2px solid var(--stroke-color);
+}

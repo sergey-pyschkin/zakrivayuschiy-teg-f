@@ -1,0 +1,5 @@
+.section {
+  display: inherit;
+  flex-direction: inherit;
+  gap: inherit;
+}

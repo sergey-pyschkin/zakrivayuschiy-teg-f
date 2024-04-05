@@ -1,0 +1,12 @@
+.dialog__text {
+  text-transform: uppercase;
+  line-height: 1.5;
+  max-width: 234px;
+  width: 100%;
+}
+
+@media (width <= 375px) {
+  .dialog__text {
+    width: 80%;
+  }
+}

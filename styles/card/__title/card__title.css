@@ -1,0 +1,5 @@
+.card__title {
+  font-size: 18px;
+  font-variation-settings: var(--title-font-weight);
+  padding: 4px 10px;
+}

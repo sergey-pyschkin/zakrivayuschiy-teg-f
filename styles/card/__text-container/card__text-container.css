@@ -1,0 +1,7 @@
+.card__text-container {
+  padding: 26px 25px;
+  font-size: 18px;
+  display: flex;
+  flex-direction: column;
+  gap: 26px;
+}

@@ -1,0 +1,4 @@
+.button__text {
+  color: var(--mix-blend-color);
+  mix-blend-mode: difference;
+}

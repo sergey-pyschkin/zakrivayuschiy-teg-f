@@ -1,0 +1,12 @@
+.floppy-image {
+  width: 21px;
+  height: 21px;
+  mix-blend-mode: difference;
+}
+
+@media (width <= 375px) {
+  .floppy-image {
+    width: 28px;
+    height: 28px;
+  }
+}
