@@ -30,7 +30,6 @@ __Блок footer__ - подвал сайта
 Благодаря адаптивной верстке сайт подстраивается под различные разрешения экрана.
 
 ### 4. Ссылки
-Репозиторий - [Закрывающий тег](https://github.com/sergey-pyschkin/zakrivayuschiy-teg-f)
 Сайт - [Закрывающий тег](https://sergey-pyschkin.github.io/zakrivayuschiy-teg-f/index.html)
 
 # zakrivayuschiy-teg-f
