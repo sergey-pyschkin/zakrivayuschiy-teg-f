@@ -30,7 +30,7 @@ __Блок footer__ - подвал сайта
 Благодаря адаптивной верстке сайт подстраивается под различные разрешения экрана.
 
 ### 4. Ссылки
-Сайт - [Закрывающий тег](https://sergey-pyschkin.github.io/slozhno-sosredotochitsya/)
-Репозиторий - [Закрывающий тег](https://github.com/sergey-pyschkin/slozhno-sosredotochitsya.git)
+Сайт - [Закрывающий тег](https://sergey-pyschkin.github.io/zakrivayuschiy-teg-f/)
+Репозиторий - [Закрывающий тег](https://github.com/sergey-pyschkin/zakrivayuschiy-teg-f)
 
 # slozhno-sosredotochitsya
