@@ -5,17 +5,13 @@
   color: var(--text-color);
   background: repeating-linear-gradient(
       90deg,
-      var(--background-color),
-      var(--background-color) 2px,
-      transparent 2px,
-      transparent 4px
+      var(--background-color) 0px 2px,
+      transparent 2px 4px
     ),
     repeating-linear-gradient(
       180deg,
-      var(--background-color-start),
-      var(--background-color-end) 2px,
-      transparent 2px,
-      transparent 4px
+      var(--background-color) 0px 2px,
+      transparent 2px 4px
     ),
     repeating-linear-gradient(
       180deg,
